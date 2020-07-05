@@ -1,5 +1,11 @@
-とりあえず、プロフィールページ的なものを作っておきます。
-以下のようなもののまとめページになる予定です。
+## News
+
+<dl>
+<dt>2020-07-05</dt>
+<dd>GithubPagesを公開しました</dd>
+  
+
+<!-- コメントアウトしたい内容
 
 - Githubで公開したソース
 - qiitaやnoteで作成したメモ
@@ -7,13 +13,13 @@
 - Twitterで公開したつぶやき
 - など
 
-# 言及予定分野
 - unity ml-agentによる機械学習,強化学習
 - Python scikit-learn による人工知能開発
 - Slack,Lineにおけるbot開発
 
+ -->
 
-### Definition lists can be used with HTML syntax.
+### Profile
 
 <dl>
 <dt>Name</dt>
