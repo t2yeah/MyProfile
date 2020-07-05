@@ -12,7 +12,7 @@
 - unity ml-agentによる機械学習,強化学習
 - Python scikit-learn による人工知能開発
 - Slack,Lineにおけるbot開発
-- 
+
 
 # about me
 
