@@ -13,11 +13,15 @@
 - Slack,Lineにおけるbot開発
 
 
-# about me
+### Definition lists can be used with HTML syntax.
 
-- 関西人
-- 1973生まれ
-- 男
-
-
-# 参考にしたサイト
+<dl>
+<dt>Name</dt>
+<dd>t2yeah</dd>
+<dt>Born</dt>
+<dd>1973</dd>
+<dt>Birthplace</dt>
+<dd>Kansai,Japan</dd>
+<dt>Type</dt>
+<dd>Human-Male</dd>
+</dl>
